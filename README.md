@@ -4,7 +4,7 @@ This is the Golang track from [Exercism](https://exercism.io/go)
 
 ## Running
 
-You can run the files by the command ```go run <FILENAME>.go``` when in the respective directory.
+You can run the files by the command ```go run <FILENAME>``` when in the respective directory.
 
 ## Running Tests and Benchmarks
 ### Tests
