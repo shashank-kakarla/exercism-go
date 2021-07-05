@@ -1,5 +1,5 @@
 // Package diffsquares has functions which calculate the square of integers,
-// sum of the squares of integers and square of the sum of integers
+// sum of squares of integers and square of the sum of integers
 package diffsquares
 
 // CalculateSquare calculates the square of the given integer.
